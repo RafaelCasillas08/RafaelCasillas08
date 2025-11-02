@@ -41,6 +41,5 @@ Read popular Star Wars quotes and add personal quotes. [Visit Quotes App](https:
 
 ## Let's Connect! 🤝
 - [Visit my LinkedIn](https://www.linkedin.com/in/rafael-casillas-lopez/)
-- [See my Resume](https://www.canva.com/design/DAF6XD7zj4g/JuFNERm3v8cDTHoixGeFQA/view?utm_content=DAF6XD7zj4g&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [Reach me by Email](mailto:rafaelcasillas08@gmail.com)
 
