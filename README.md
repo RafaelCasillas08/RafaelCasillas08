@@ -16,22 +16,22 @@ My dedication to clean code, problem-solving, and staying abreast of the latest 
 ## Projects 🚀
 
 ### 🎬  Netflix App 
-Landing page similar than Netflix, with the ability of playing movies and adding them to your list. [Visit Netflix App](https://rafaelcasillas100.github.io/netflix/)
+Landing page similar than Netflix, with the ability of playing movies and adding them to your list. [Visit Netflix App](https://rafaelcasillas08.github.io/netflix/)
 
 ### 🍲  Recipes App 
-Search for a recipe or an ingredient and select your best option. Then follow each step of the recipe and enjoy your food! [Visit Recipes App](https://rafaelcasillas100.github.io/recipes/)
+Search for a recipe or an ingredient and select your best option. Then follow each step of the recipe and enjoy your food! [Visit Recipes App](https://rafaelcasillas08.github.io/recipes/)
 
 ### 🏓  Pong-Game
-Pong game to play against the computer. Try to score more points than the machine!! [Play Pong-Game](https://rafaelcasillas100.github.io/pong-game/)
+Pong game to play against the computer. Try to score more points than the machine!! [Play Pong-Game](https://rafaelcasillas08.github.io/pong-game/)
 
 ### 🎮  Mini-Game
-You have to click on the blank rectangles and they will change of color. You have to find the partner of each rectangle. If you click 2 rectangles of the same color, they will remain colored, so you can continue clicking the other rectangles. The game finishes when you find the color matches of all the rectangles. [Play Mini-Game](https://rafaelcasillas100.github.io/mini-game/)
+You have to click on the blank rectangles and they will change of color. You have to find the partner of each rectangle. If you click 2 rectangles of the same color, they will remain colored, so you can continue clicking the other rectangles. The game finishes when you find the color matches of all the rectangles. [Play Mini-Game](https://rafaelcasillas08.github.io/mini-game/)
 
 ### 🌎  Countries App
-Search countries by name and see their basic information, like their official name or flag. [Visit Countries App](https://rafaelcasillas100.github.io/countries/)
+Search countries by name and see their basic information, like their official name or flag. [Visit Countries App](https://rafaelcasillas08.github.io/countries/)
 
 ### 📖  Quotes App
-Read popular Star Wars quotes and add personal quotes. [Visit Quotes App](https://rafaelcasillas100.github.io/Quotes-app/)
+Read popular Star Wars quotes and add personal quotes. [Visit Quotes App](https://rafaelcasillas08.github.io/Quotes-app/)
 
 <br />
 <div style="display: flex;">
